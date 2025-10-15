@@ -1,0 +1,138 @@
+[21:27:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:27:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:27:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:27:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[21:27:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - SimpleTpa (7.9), SkinsRestorer (15.8.2), Timber (1.7.4), UltraSetHome (1.7.9)
+[21:27:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:27:50] [ServerMain/INFO]: Loaded 1407 recipes
+[21:27:50] [ServerMain/INFO]: Loaded 1520 advancements
+[21:27:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:27:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 414.7ms
+[21:27:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:27:50] [Server thread/INFO]: Loading properties
+[21:27:50] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:27:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:27:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:27:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:27:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:27:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:27:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:52] [Server thread/INFO]: Generating keypair
+[21:27:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:52] [Server thread/INFO]: Using epoll channel type
+[21:27:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:27:52] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:27:52] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[21:27:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.2
+[21:27:52] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[21:27:52] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.7.4
+[21:27:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:27:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[21:27:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[21:27:54] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:27:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:27:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:27:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:27:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:27:54] [Server thread/INFO]: Preparing level "world"
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.2
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: cf773a3
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:27:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:27:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:55] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:55] [Server thread/INFO]: Preparing spawn area: 2%
+[21:27:56] [Server thread/INFO]: Preparing spawn area: 18%
+[21:27:56] [Server thread/INFO]: Time elapsed: 1180 ms
+[21:27:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:27:56] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:56] [Server thread/INFO]: Time elapsed: 301 ms
+[21:27:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:27:56] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:56] [Server thread/INFO]: Time elapsed: 128 ms
+[21:27:56] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[21:27:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[21:27:57] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[21:27:57] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[21:27:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[21:27:57] [Server thread/INFO]: [Timber] Enabling Timber v1.7.4
+[21:27:57] [Server thread/WARN]: LogBlock isn't injected! 
+[21:27:57] [Server thread/WARN]: Install the plugin to improve tree detection 
+[21:27:57] [Server thread/WARN]: Download link: https://www.curseforge.com/minecraft/bukkit-plugins/logblocks 
+[21:27:58] [Server thread/INFO]: [spark] Starting background profiler...
+[21:27:58] [Server thread/INFO]: Done preparing level "world" (4.141s)
+[21:27:58] [Server thread/INFO]: Running delayed init tasks
+[21:27:58] [Server thread/INFO]: Done (17.092s)! For help, type "help"
+[21:27:58] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[21:32:21] [User Authenticator #0/INFO]: UUID of player Mishinaru_3rd is 91cbec9f-bc1f-3eec-b782-502284c1e4b4
+[21:32:23] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:32:23] [Server thread/INFO]: Mishinaru_3rd joined the game
+[21:32:23] [Server thread/INFO]: Mishinaru_3rd[/127.146.249.124:58493] logged in with entity id 6 at ([world]-483.1763289599274, 119.0, 91.80067514181988)
+[21:46:04] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome casa
+[22:00:41] [Server thread/INFO]: Mishinaru_3rd has made the advancement [Take Aim]
+[22:05:19] [Server thread/INFO]: Mishinaru_3rd has made the advancement [Ice Bucket Challenge]
+[22:08:59] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[22:13:24] [Server thread/INFO]: Mishinaru_3rd has made the advancement [We Need to Go Deeper]
+[22:14:52] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome nether
+[22:14:57] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[22:15:05] [Server thread/INFO]: Mishinaru_3rd issued server command: /home nether
+[22:17:20] [Server thread/INFO]: Villager Villager['Villager'/6840, uuid='7f98af4a-33a9-4cc8-b754-39de9214d5c3', l='ServerLevel[world]', x=-430.96, y=108.00, z=86.37, cpos=[-27, 5], tl=1073, v=true] died, message: 'Villager was slain by Zombie'
+[22:25:53] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome fortaleza
+[22:26:25] [Server thread/INFO]: Mishinaru_3rd has made the advancement [A Terrible Fortress]
+[22:27:41] [Server thread/INFO]: Mishinaru_3rd has made the advancement [Into Fire]
+[22:33:59] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome blazes
+[22:34:05] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[22:34:49] [Server thread/INFO]: Mishinaru_3rd issued server command: /home blazes
+[22:44:03] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[22:44:21] [Server thread/INFO]: Villager Villager['Farmer'/10017, uuid='4776a8e2-d933-4ce5-9ac1-ae5fb2cd8496', l='ServerLevel[world]', x=-452.63, y=70.00, z=55.05, cpos=[-29, 3], tl=357, v=true] died, message: 'Farmer was slain by Zombie'
+[22:47:35] [Server thread/INFO]: Mishinaru_3rd has made the advancement [A Seedy Place]
+[22:52:50] [Server thread/INFO]: Villager Villager['Farmer'/10088, uuid='949fb341-0422-4ad5-b516-cd181367df8c', l='ServerLevel[world]', x=-385.55, y=72.00, z=81.99, cpos=[-25, 5], tl=10508, v=true] died, message: 'Farmer was slain by Zombie'
+[22:57:31] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:06:53] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome sakura
+[23:13:23] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome librero
+[23:14:28] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:16:20] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:17:01] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:17:35] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:17:39] [Server thread/INFO]: Mishinaru_3rd has made the advancement [What a Deal!]
+[23:18:17] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:18:51] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:19:24] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:19:37] [Server thread/INFO]: Mishinaru_3rd issued server command: /homes remove casa
+[23:19:51] [Server thread/INFO]: Mishinaru_3rd issued server command: /homes remove Mishinaru_3rd 2
+[23:19:58] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa remove
+[23:20:13] [Server thread/INFO]: Mishinaru_3rd issued server command: /importhomes essentials
+[23:20:15] [Server thread/INFO]: Mishinaru_3rd issued server command: /importhomes
+[23:26:50] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:27:24] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:28:07] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:28:18] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:29:08] [Server thread/INFO]: Mishinaru_3rd has made the advancement [Enchanter]
+[23:31:52] [Server thread/INFO]: Mishinaru_3rd lost connection: Disconnected
+[23:31:52] [Server thread/INFO]: Mishinaru_3rd left the game
+[23:33:27] [User Authenticator #1/INFO]: UUID of player Mishinaru_3rd is 91cbec9f-bc1f-3eec-b782-502284c1e4b4
+[23:33:29] [Server thread/INFO]: Mishinaru_3rd joined the game
+[23:33:29] [Server thread/INFO]: Mishinaru_3rd[/127.146.249.124:58637] logged in with entity id 21848 at ([world]-407.8891754918318, 59.5625, 46.06806974567045)
+[23:37:05] [Server thread/INFO]: Mishinaru_3rd issued server command: /home fortaleza
+[23:39:15] [Server thread/INFO]: Mishinaru_3rd has made the advancement [Hidden in the Depths]
+[23:44:48] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:47:14] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:47:48] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:48:59] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome cuv
+[23:49:50] [Server thread/INFO]: Mishinaru_3rd has made the advancement [The Parrots and the Bats]
+[23:49:52] [Server thread/INFO]: Mishinaru_3rd issued server command: /sethome vacas
+[23:49:58] [Server thread/INFO]: Mishinaru_3rd issued server command: /home librero
+[23:50:08] [Server thread/INFO]: Mishinaru_3rd issued server command: /home casa
+[23:50:12] [Server thread/INFO]: Mishinaru_3rd issued server command: /home cuv
+[23:50:54] [Server thread/INFO]: Mishinaru_3rd lost connection: Disconnected
+[23:50:54] [Server thread/INFO]: Mishinaru_3rd left the game
